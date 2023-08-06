@@ -12,6 +12,9 @@ This repository contains a simple web form that allows users to input data for a
 
 ## Preview
 
+![data entry](https://github.com/shrutisohi04/Creating-Form-Webpage/assets/128236491/4b4b72a9-d014-4580-a02b-a36fc8efe692)
+
+![form submitted](https://github.com/shrutisohi04/Creating-Form-Webpage/assets/128236491/27b98bfc-cae7-4c48-bb12-0e238677216e)
 
 ## Usage
 
