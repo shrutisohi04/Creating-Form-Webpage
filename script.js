@@ -20,14 +20,12 @@ function handleSubmit(event) {
         return;
     }
 
-    // Submit the form (you can optionally remove this line if you want to just redirect)
+    // Submit the form 
     document.getElementById('userForm').submit();
 
     // Redirect to the success page after form submission
     window.location.href = 'success.html';
 }
-
-// Rest of the code remains the same...
 
 // Event listener for form submission
 document.getElementById('userForm').addEventListener('submit', handleSubmit);
