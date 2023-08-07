@@ -1,11 +1,30 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    background-color: #082d55;
+    /* Plain blue background */
+    font-family: Arial, sans-serif;
+}
+
+
 .container {
-    max-width: 400px;
+    width: 40%;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #093666;
     /* Dark blue border */
     border-radius: 5px;
-    background-color: #f0f8ff;
+    background-color: #d6dce2;
     /* Pale blue background */
 }
 
